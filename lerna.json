@@ -1,9 +1,8 @@
 {
   "packages": [
-    "docs",
     "packages/*"
   ],
-  "version": "61.4.0",
+  "version": "63.2.1",
   "command": {
     "version": {
       "allowBranch": [
